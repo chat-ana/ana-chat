@@ -5,7 +5,7 @@ edition = "2021"
 publish = false
 
 [dependencies]
-async-trait = "0.1.72"
+async-trait = "0.1.73"
 axum = "0.6.20"
 axum-extra = { version = "0.7.7", features = ["spa"] }
 chrono = "0.4.26"
